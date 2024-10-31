@@ -24,15 +24,3 @@ A high-level examination of the data uncovered trends and patterns among develop
 - **Open Source Participation:** Many developers engage in open-source contributions, often using a variety of programming languages, suggesting a vibrant and diverse developer community in Zurich.
 - **Licensing Practices:** An observation was made that a large percentage of repositories lack specified licenses, which could limit usage and discourage contributions from other developers.
 
-### Recommendations
-
-1. **License Your Code**: Adding a license to your repositories helps protect your work and encourages collaboration.
-2. **Profile Visibility**: Developers may benefit from updating their profile with bio and company information, as it can enhance their professional presence.
-3. **Project Setup**: Enabling projects and wikis in repositories can make it easier for collaborators to get involved and understand the project’s goals.
-
-### Files in Repository
-
-- **users.csv**: Contains user information with fields as specified in the project.
-- **repositories.csv**: Contains up to 500 of the most recent repositories for each user.
-
-Thank you for reviewing this project! Your feedback is appreciated and will help improve future data collection and analysis practices.
